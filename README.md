@@ -131,7 +131,7 @@ Then open **http://localhost:3000** in your browser 🎉
 ## 🧑‍💻 Author
 **Developed by:** Momin Raza  
 **Role:** Full Stack Developer  
-📧 Contact: [mominraza354@gmail.com]
+📧 Contact: mominraza354@gmail.com
 
 ---
 
